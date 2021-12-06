@@ -1,5 +1,5 @@
 """
-Day 2 Project : Band Name Generator
+Day 1 Project : Band Name Generator
 """
 
 #1. Create a greeting for your program.
